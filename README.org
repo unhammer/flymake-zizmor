@@ -22,3 +22,6 @@ Make sure you've installed =zizmor= (see https://zizmor.sh/ for how).
 Ensure it is in =PATH=, or set =flymake-zizmor-program= to the full
 path to it.
 
+* License
+
+GPLv3 or later.
